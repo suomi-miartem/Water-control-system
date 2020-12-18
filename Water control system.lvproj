@@ -13,6 +13,7 @@
 		<Item Name="1 step.vi" Type="VI" URL="../1 step.vi"/>
 		<Item Name="2 step.vi" Type="VI" URL="../2 step.vi"/>
 		<Item Name="Bioreactor.vi" Type="VI" URL="../Bioreactor.vi"/>
+		<Item Name="Column wash timer.vi" Type="VI" URL="../Column wash timer.vi"/>
 		<Item Name="Control system.vi" Type="VI" URL="../Control system.vi"/>
 		<Item Name="Membrane.vi" Type="VI" URL="../Membrane.vi"/>
 		<Item Name="Simulation.vi" Type="VI" URL="../Simulation.vi"/>
