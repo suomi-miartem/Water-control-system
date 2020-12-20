@@ -15,8 +15,10 @@
 		<Item Name="Bioreactor.vi" Type="VI" URL="../Bioreactor.vi"/>
 		<Item Name="Column wash timer.vi" Type="VI" URL="../Column wash timer.vi"/>
 		<Item Name="Control system.vi" Type="VI" URL="../Control system.vi"/>
+		<Item Name="Membrane wash timer.vi" Type="VI" URL="../Membrane wash timer.vi"/>
 		<Item Name="Membrane.vi" Type="VI" URL="../Membrane.vi"/>
 		<Item Name="Simulation.vi" Type="VI" URL="../Simulation.vi"/>
+		<Item Name="Status.vi" Type="VI" URL="../Status.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="FormatTime String.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/FormatTime String.vi"/>
